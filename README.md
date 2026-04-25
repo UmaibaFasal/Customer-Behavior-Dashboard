@@ -4,4 +4,4 @@
 **Datasource: ** https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv
 **Features: ** KPI Cards: Total Revenue, Total Customers, Avg Review Rating, Revenue Per Customer, Subscribed Customers, Key Customer Contribution %, Loyal Customer%  
 
-**Screenshots: **
+**Screenshots: ** https://github.com/UmaibaFasal/Customer-Behavior-Dashboard/blob/main/Customer_Shopping_Behavior.png
